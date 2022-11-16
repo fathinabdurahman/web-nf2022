@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tugas Praktikum 3.1</title>
+	<style >
+		textarea { 
+			width: 300px;
+			height: 300px;
+		}
+	</style>
+</head>
+<body background="pizza.png" >
+<form action="pizza form.html"></form>
+	<h1 style="font-family: cursive; text-align: center;">GRIZZLY PIZZA | Pizza-on-demand</h1>
+		<p style="font-family: cursive; text-align: center;">
+			<b>Our special menu are available for delivery. Build your custom pizza and we'll deliver it within an hour.</b>
+		</p>
+	<br>
+<fieldset style="border: 1px solid; background-color: transparent;">
+	<legend>Your Information</legend>
+		<label for="input_name">Name:</label>
+		<input type="Name" id="input_name">
+<br>
+<br>
+		<label for="input_address">Address:</label>
+		<input type="Address" id="input_address">
+<br>
+<br>
+		<label for="input_telephone number">Telephone Number:</label>
+		<input type="Tel" id="phone"  name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}">
+<br>
+<br>
+		<label for="input_email">Email:</label>
+		<input type="Email" id="input_email">
+<br>
+<br>
+	<p>Delivery Instructions</p>
+		<textarea maxlength="400"> no more than 400 characters long </textarea>
+
+
+</div>
+</fieldset>
+<br>
+		<h3>Desain your dream pizza</h3>
+	<p>Pizza specs</p>
+<fieldset style=" border: 2px solid; background-color: transparent;">
+    <legend>Crust ( Choose One ):</legend>
+
+    <div>
+      <input type="radio" id="Classic White" name="Crust" value="Classic White">
+      <label for="Classic White">Classic White</label>
+    </div>
+
+    <div>
+      <input type="radio" id="Multigrain" name="Crust" value="Multigrain">
+      <label for="Multigrain">Multigrain</label>
+    </div>
+
+    <div>
+      <input type="radio" id="Cheese-stuffed crust" name="Crust" value="Cheese-stuffed crust">
+      <label for="Cheese-stuffed crust">Cheese-stuffed crust</label>
+    </div>
+
+    <div>
+    	<input type="radio" id="Gluten-free" name="Crust" value="Gluten-free">
+    	<label for="Gluten-free">Gluten-free</label>
+    </div>
+    <br>
+
+    <p>Toppings ( Choose as many as you want )</p>
+
+	<input type="checkbox" id="Toppings1" name="Toppings1" value="Red Sauce" checked>
+  		<label for="Toppings1"> Red Sauce </label><br>
+  	<input type="checkbox" id="Toppings2" name="Toppings2" value="White Sauce">
+ 		 <label for="Toppings2"> White Sauce</label><br>
+  	<input type="checkbox" id="Toppings3" name="Toppings3" value="Mozzarella Cheese">
+  		<label for="Toppings3"> Mozzarella Cheese </label><br>
+  	<input type="checkbox" id="Toppings4" name="Toppings4" value="Pepperoni">
+  		<label for="Toppings4"> Pepperoni </label><br>
+  	<input type="checkbox" id="Toppings5" name="Toppings5" value="Mushrooms">
+  		<label for="Toppings5"> Mushrooms </label><br>
+  	<input type="checkbox" id="Toppings6" name="Toppings6" value="Peppers">
+  		<label for="Toppings6"> Peppers </label><br>
+  	<input type="checkbox" id="Toppings7" name="Toppings7" value="Anchovies">
+  		<label for="Toppings7"> Anchovies </label>
+</fieldset>
+<p>Number</p>
+		<label for="Pizza">How many pizza:</label>
+  <select name="Pizza" id="Pizza">
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+  </select>
+<br>
+<input type="submit" value="Bring me a pizza!">
+<input type="reset">
+</body>
+</form>
+</html>
