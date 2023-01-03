@@ -1,0 +1,785 @@
+<!DOCTYPE html> <html> <head> <link rel="preconnect" href="https://securepubads.g.doubleclick.net"> <link rel="preconnect" href="https://d5nxst8fruw4z.cloudfront.net"> <script defer type="text/javascript" src="https://static.criteo.net/js/ld/ld.js" defer></script> <script defer>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NGNJXMW');</script> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"> <title>Cara Mengolah Daging Sapi dengan Baik dan Benar - Alodokter</title> <meta http-equiv="Pragma" content="public"> <meta http-equiv="Cache-Control" content="public"> <link rel="preload" href="/assets/lato/Lato-Regular-983b0caf336e8542214fc17019a4fc5e0360864b92806ca14d55c1fc1c2c5a0f.woff2" as="font" crossorigin> <link rel="preload" href="/assets/lato/Lato-Bold-ae88fc0d7a961832f809527d30bd3983a6866d42f66a56ade23f543681594db6.woff2" as="font" crossorigin> <style>
+    @font-face {
+        font-family: 'LatoWeb';
+        src: url("/assets/lato/Lato-Regular-e735410675eacc363b257112f39eb819a854b03077d7b1f0caa6e7660ffbd8b3.eot");
+        /* IE9 Compat Modes */
+        src: url("/assets/lato/Lato-Regular-e735410675eacc363b257112f39eb819a854b03077d7b1f0caa6e7660ffbd8b3.eot?#iefix") format('embedded-opentype'), /* IE6-IE8 */
+        url("/assets/lato/Lato-Regular-983b0caf336e8542214fc17019a4fc5e0360864b92806ca14d55c1fc1c2c5a0f.woff2") format('woff2'), /* Modern Browsers */
+        url("/assets/lato/Lato-Regular-5b9025dda4d7688e3311b0c17eddc501133b807def33effaef6593843cf5416e.woff") format('woff'), /* Modern Browsers */
+        url("/assets/lato/Lato-Regular-089ab6d4a57e0e6c4dd3b681b6fd50a5184f1b902429d35e1227e52d6ccad1bd.ttf") format('truetype');
+        font-style: normal;
+        font-display: swap;
+        font-weight: 400;
+        text-rendering: optimizeLegibility;
+    }
+
+    @font-face {
+        font-family: 'LatoWeb';
+        src: url("/assets/lato/Lato-Semibold-9b2fcdcc1c750abe4dc0ae674f83ab8d3aa7b08b38fe3a0e8dd3edf45ee137e4.eot");
+        /* IE9 Compat Modes */
+        src: url("/assets/lato/Lato-Semibold-9b2fcdcc1c750abe4dc0ae674f83ab8d3aa7b08b38fe3a0e8dd3edf45ee137e4.eot?#iefix") format('embedded-opentype'), /* IE6-IE8 */
+        url("/assets/lato/Lato-Semibold-30f77a5ff0bcba46d4e760b0c939a5ff112da0d3ddd13a261834134e00cc21c7.woff2") format('woff2'), /* Modern Browsers */
+        url("/assets/lato/Lato-Semibold-d7e887f5ff038daf96c38a10a671409836af9511895da989931aaaa3c18e274f.woff") format('woff'), /* Modern Browsers */
+        url("/assets/lato/Lato-Semibold-ec99896795389d4288aa0dc8657f77f19d0832c3b714b67bc61ce8695e05b1d9.ttf") format('truetype');
+        font-style: normal;
+        font-display: swap;
+        font-weight: 600;
+        text-rendering: optimizeLegibility;
+    }
+
+    @font-face {
+        font-family: 'LatoWeb';
+        src: url("/assets/lato/Lato-Bold-b91fc1ca55df440dc11354b32a39b45db663d24bb17b16dcb2e706330955b0d1.eot");
+        /* IE9 Compat Modes */
+        src: url("/assets/lato/Lato-Bold-b91fc1ca55df440dc11354b32a39b45db663d24bb17b16dcb2e706330955b0d1.eot?#iefix") format('embedded-opentype'), /* IE6-IE8 */
+        url("/assets/lato/Lato-Bold-ae88fc0d7a961832f809527d30bd3983a6866d42f66a56ade23f543681594db6.woff2") format('woff2'), /* Modern Browsers */
+        url("/assets/lato/Lato-Bold-0e56b17d142eb366c8007031d14e34da48c70b4a9d9a0ca492e696a7bae45e1e.woff") format('woff'), /* Modern Browsers */
+        url("/assets/lato/Lato-Bold-f71f833c099f450606f8107b83ef208ae918c0ea00779466d45e9be96b0bc7cc.ttf") format('truetype');
+        font-style: normal;
+        font-display: swap;
+        font-weight: 700;
+        text-rendering: optimizeLegibility;
+    }
+
+    html, body {
+        margin: 0 auto;
+        font-family: "LatoWeb", sans-serif;
+        font-size: 16px;
+        color: #3b3738;
+        line-height: 1.44;
+        font-weight: 400;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-rendering: optimizeLegibility;
+        -moz-font-feature-settings: "liga" on;
+      }
+
+    input{
+       font-family: "LatoWeb", sans-serif;
+    }
+
+      ::placeholder {
+        color: #dadee4;
+      }
+
+      /* GLOBAL CSS */
+      .container-fluid {
+        width: 1340px;
+        margin: 0 auto;
+        padding: 0;
+      }
+
+      blockquote {
+        box-sizing: border-box;
+        margin: 1.5em 0px;
+        padding: 0 8px;
+        border-left: 4px solid #3570d2;
+        font-weight: bold;
+      }
+
+      .container {
+        width: 1000px;
+        margin: 0 auto;
+        padding: 0;
+        display:flex;
+        justify-content: space-between;
+      }
+
+      .main-container {
+        width: 667px;
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+        padding-top: 45px;
+      }
+
+      .side-container {
+        width: 300px;
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+        padding-top: 45px;
+      }
+
+      .dfp-container {
+        margin-bottom: 20px;
+      }
+
+      .adunit {
+          margin-bottom: 20px;
+        }
+
+      .post-content {
+        line-height: 1.75;
+      }
+
+      a {
+          text-decoration: none;
+      }
+
+      .post-content a {
+          color: #3570d2;
+        }
+
+        p {
+          font-size: 16px;
+          margin: 10px 0;
+        }
+
+        h3 {
+          font-size: 17px;
+          font-weight: bold;
+          font-style: normal;
+          font-stretch: normal;
+          line-height: 1.32;
+          letter-spacing: -0.3px;
+          margin-top: 32px;
+          margin-bottom: 0;
+        }
+
+        h4 {
+          font-size: 17px;
+          font-weight: bold;
+          font-style: normal;
+          font-stretch: normal;
+          line-height: 1.32;
+          letter-spacing: -0.3px;
+          margin-top: 32px;
+          margin-bottom: 0;
+        }
+
+      .post-index-title{color:#000;}
+      .tag-label {
+        position: absolute;
+        padding: 0 10px;
+        border-radius: 10.5px;
+        color: #FFFFFF;
+        max-width: 100px;
+        height:21px;
+        text-align: center;
+        font-size: 12px;
+        line-height: 21px;
+      }
+
+      .tag-block { position: relative !important; margin: 0 0 10px 0; }
+        .label-keluarga { background-color: #6ACB02; }
+        .label-hidup-sehat { background-color: #DAB300; }
+        .label-kesehatan { background-color: #F85B06; }
+        .label-blue { background-color: #3570d2; }
+        .text-blue {color: #3570d2;}
+        .text-light-grey {color: #9e9e9e;}
+        .check {width: 14px;height: 14px;object-fit: contain;}
+
+      .tag-label-container {
+        height: 21px;
+        margin: 0 0 16px;
+      }
+
+      .title-tag-container {
+        margin-bottom: 17px;
+        color: #000000;
+      }
+
+      .title-tag-container h1 {
+        margin: 10px 0;
+        font-size: 24px;
+      }
+
+      .date-article {
+        margin-top: 11px;
+        height: 23px;
+        font-size: 14px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.92;
+        letter-spacing: normal;
+        color: #434343;
+        margin-bottom: 8px;
+      }
+
+      .share-button-container {
+        margin: 17px 0;
+      }
+
+      .share-button a {
+        text-decoration: none;
+      }
+
+      .share-button img {
+        margin-right: 10px;
+      }
+
+      .post-detail-container {
+        margin-bottom: 25px;
+        position: relative;
+      }
+
+      .post-detail-container iframe{
+        width: 100%;
+        height: 375px;
+      }
+
+      .post-detail-container img{
+        max-width: 667px;
+        height: auto;
+      }
+      h1{margin: 10px 0;}
+      .label-keluarga { background-color: #6ACB02; }
+      .label-hidup-sehat { background-color: #DAB300; }
+      .label-kesehatan { background-color: #F85B06; }
+      .label-blue { background-color: #3570d2; }
+
+      .adunit {
+        margin-bottom: 20px;
+	}
+
+    .related-doctor {
+      margin: 20px 0;
+      width: 300px;
+    }
+      .related-doctor h3 {
+        font-size: 24px;
+        font-weight: 900;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.42;
+        letter-spacing: normal;
+        color: #000000;
+        margin-top: 0;
+        margin-bottom: 12px;
+      }
+
+      /* table style */
+      table td {
+          border-top: 1px solid #ddd;
+          padding: 6px 10px 6px 0;
+      }
+      .h2-related{
+        font-size: 24px;
+        font-weight: 900;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.42;
+        letter-spacing: normal;
+        color: #000000;
+        margin-top: 20px;
+        margin-bottom: 12px;
+      }
+      .h2-related-article{
+        font-size: 24px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.32;
+        letter-spacing: -0.3px;
+        margin: 0;
+        margin-bottom: 20px;
+        color: #000;
+      }
+      .hide{display: none;}
+
+      .wall-container {
+        bottom: 0px;
+        position: absolute;
+        width: 100%;
+        padding: 102px 0 50px 0;
+        text-align: center;
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0) -36.19%, #FFFFFF 26.05%);
+      }
+      .wall-container p {
+        font-size: 18px;
+        font-weight: 600;
+        color: #424242;
+        margin: 0;
+      }
+      .wall-container .button {
+        display: block;
+        width: 264px;
+        height: 44px;
+        line-height: 44px;
+        color: #FFFFFF;
+        font-size: 16px;
+        font-weight: 600;
+        margin: auto;
+        background-color: #3570D2;
+        border: 0;
+        border-radius: 5px;
+        text-decoration: none;
+        text-align: center;
+        margin-top: 24px;
+      }
+
+      .grecaptcha-badge { visibility: hidden; }
+</style> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, maximum-scale=5"> <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-73b49b1e9302b388560f5836153dcf6a1ec42c607c96fc65d5b29e773c85374a.ico"/> <link rel="icon" type="image/png" href="/assets/favicon-48x48-fe366add8379860e5ee5041f0b6b9745ff450a945001d5f04fd8a0d706837ea6.png" sizes="48x48"/> <link rel="apple-touch-icon" type="image/png" href="/assets/apple-touch-icon-fbe9a22f2fc74b52818c962ab91b40031f1e6dd2d614f376eb1efcc03c5bba0b.png" sizes="192x192"/> <meta name="apple-mobile-web-app-title" content="Alodokter"> <meta name="application-name" content="Alodokter"> <meta name="msapplication-TileColor" content="#ffffff"> <meta name="apple-mobile-web-app-status-bar-style" content="#3973cf"> <meta name="theme-color" content="#3973cf"> <meta name="alexaVerifyID" content="n_Kykr_OZlOYYRDisl_bHGZYccc"> <meta name="google-site-verification" content=j8xshrH7uBo3AEjk-HfjufpapvzwkNHw57NXFN3G07Y> <meta name="msvalidate.01" content=C233DAA628883F2DD70CD54C789D0494> <meta name="postid" content="106979"> <meta name="posttype" content="post"> <meta name="remarketing_tags" content="diet"> <meta name="criteo_account" content="62444"> <meta name="description" content="Daging sapi merupakan sumber nutrisi penting bagi tubuh. Di sisi lain, daging sapi juga bisa menjadi sumber lemak dan kolesterol jahat yang berdampak buruk bagi kesehatan."/> <meta name="keywords" content="alodokter, kesehatan, medis, penyakit, komunitas kesehatan, dokter, konsultasi kesehatan, informasi kesehatan, komunitas, diskusi kesehatan, hidup sehat, diet"/> <meta name="facebook-domain-verification" content="v9k4b24zt24dxdo39v3ab3gnt5ns5b"/> <meta property="fb:app_id" content="331705120345014"/> <meta property="og:site_name" content="Alodokter"/> <meta property="og:type" content="post"/> <meta property="og:title" content="Cara Mengolah Daging Sapi dengan Baik dan Benar"/> <meta property="og:url" content="https://www.alodokter.com/mengolah-daging-sapi-dengan-benar"/> <meta property="og:description" content="Daging sapi merupakan sumber nutrisi penting bagi tubuh. Di sisi lain, daging sapi juga bisa menjadi sumber lemak dan kolesterol jahat yang berdampak buruk bagi kesehatan."/> <meta property="og:locale" content="en_US"/> <meta property="og:updated_time" content="2022-09-01T15:18:50+07:00"/> <meta property="og:image" itemprop="image" content="https://res.cloudinary.com/dk0z4ums3/image/upload/v1605524896/attached_image/mengolah-daging-sapi-dengan-benar.jpg"/> <meta property="og:image:width" content="650"/> <meta property="og:image:height" content="433"/> <meta property="og:image:type" content="image/jpeg"/> <meta property="article:published_time" content="2015-11-18T21:00:28+07:00"/> <meta property="article:modified_time" content="2022-09-01T15:18:50+07:00"/> <meta property="article:author" content="https://www.alodokter.com/author/restika/"/> <meta property="article:publiher" content="https://www.alodokter.com/"/> <meta property="article:section" content="Hidup Sehat"/> <meta property="article:tag" content="hidup sehat"/> <meta property="article:tag" content="alodokter"/> <meta property="article:tag" content="kesehatan"/> <meta property="article:tag" content="medis"/> <meta property="article:tag" content="penyakit"/> <meta property="article:tag" content="komunitas kesehatan"/> <meta property="article:tag" content="dokter"/> <meta property="article:tag" content="konsultasi kesehatan"/> <meta property="article:tag" content="informasi kesehatan"/> <meta property="article:tag" content="diet"/> <meta name="twitter:card" content="summary"/> <meta name="twitter:title" content="Cara Mengolah Daging Sapi dengan Baik dan Benar"/> <meta name="twitter:description" content="Daging sapi merupakan sumber nutrisi penting bagi tubuh. Di sisi lain, daging sapi juga bisa menjadi sumber lemak dan kolesterol jahat yang berdampak buruk bagi kesehatan."/> <meta name="twitter:image:src" content="https://res.cloudinary.com/dk0z4ums3/image/upload/v1605524896/attached_image/mengolah-daging-sapi-dengan-benar.jpg"/> <meta name="twitter:image:width" content="650"/> <meta name="twitter:image:height" content="433"/> <link rel="alternate" href="android-app://com.alodokter.android/http/www.alodokter.com/mengolah-daging-sapi-dengan-benar"> <link rel='canonical' href='https://www.alodokter.com/mengolah-daging-sapi-dengan-benar'/> <meta name="referer" content="http://www.google.com"/> <meta name="platform" content="Desktop"/> <meta name="recaptcha-site-key" content="6Ldg7gQhAAAAAN8ebL4Gr-hTid51r0i9BpsdaEWE"/> <script src="https://www.google.com/recaptcha/enterprise.js?render=6Ldg7gQhAAAAAN8ebL4Gr-hTid51r0i9BpsdaEWE"></script> <meta name="csrf-param" content="authenticity_token"/> <meta name="csrf-token" content="laqXs3a+gpINuY/4UvzTwM9h3yKuEOuvRZU0EZ0zOYf3wVHntFmajYoEv8JP+Dt3dgGTaJScNYotwIvPbrWAGA=="/> <script>
+    setTimeout(function(){
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}
+        (window, document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '948327898593359');
+        fbq('track', "PageView");
+    }, 3500);
+    </script> <script type='text/javascript'>
+        function initExperiment(ExperimentID, callback){if (!ExperimentID){return callback(null);}var r=false; var s=document.createElement('script'); s.type='text/javascript'; s.src='//www.google-analytics.com/cx/api.js?experiment='+ExperimentID; s.onload=function(){if (!r && (!this.readyState || this.readyState=='complete')){r=true; callback(cxApi.chooseVariation());}else{callback(null)}}; s.onerror=function(){callback(null)}; var t=document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(s, t);}
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-52179504-1', 'alodokter.com');
+        ga('require', 'displayfeatures');
+
+        var typePage = 'rticle';
+        if (typePage == 'article') {
+            window.GAPageType = 'Article';
+            ga('set', 'contentGroup1', 'Article Page');
+        } else if (typePage == 'komunitas/topics' || typePage == 'komunitas/discussions') {
+            window.GAPageType = 'Komunitas';
+            ga('set', 'contentGroup1', 'Komunitas Page');
+        } else if (typePage == 'disease') {
+            window.GAPageType = 'Diseases';
+            ga('set', 'contentGroup1', 'Disease Page');
+        } else if (typePage == 'drugs') {
+            window.GAPageType = 'Drugs';
+            ga('set', 'contentGroup1', 'Drug Page');
+        } else {
+            window.GAPageType = 'General';
+        }
+        ga('set','contentGroup2', "November 2015");
+        ga('set','contentGroup3', "Restika Ayu Prasasty");
+        ga('set','dimension1', "diet");
+        initExperiment(window.ExperimentID, function(variation) {
+            if (variation !== null) {
+                window.ExperimentReady = true;
+                window.ExperimentVariation = variation;
+                ga('set', 'expId', window.ExperimentID);
+                ga('set', 'expVar', window.ExperimentVariation);
+            }
+            ga('send', 'pageview');
+            ga('send', 'event', 'Scroll Depth', GAPageType, '0%');
+        });
+    </script> <script async src="https://www.googleoptimize.com/optimize.js?id=OPT-PNHP4ZZ"></script> <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script> <script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script> <script type='text/javascript'>
+        _atrk_opts = { atrk_acct:"2x5el1aUUYj05T", domain:"alodokter.com",dynamic: true};(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+    </script> <script async src="//alodokter.api.useinsider.com/ins.js?id=10005708"></script> </head> <body> <top-navbar-view id="top-navbar-view" user-photo="" is-show-kemenkes ="{&quot;kemenkes_partnership&quot;:true,&quot;kemenkes_top_bar_desktop&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto/v1634020083/aloweb_assets/logo-header.png&quot;,&quot;kemenkes_bottom_banner_desktop&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto/v1586404769/dev/kemenkes/1586404767.png&quot;,&quot;kemenkes_top_bar_mobile&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto/v1634020083/aloweb_assets/logo-header.png&quot;,&quot;kemenkes_bottom_banner_mobile&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto/v1586404887/dev/kemenkes/1586404881.png&quot;}" user-login="" user-fullname="" total-notif="0" doctor-editor-link="" user-link="" show-hide-menu="{&quot;web_show_top_navbar_aloproteksi&quot;:true,&quot;web_show_top_navbar_aloshop&quot;:true,&quot;web_show_top_navbar_caridokter&quot;:true,&quot;web_show_top_navbar_hidupsehat&quot;:true,&quot;web_show_top_navbar_infokesehatan&quot;:true,&quot;web_show_top_navbar_keluarga&quot;:true,&quot;web_show_top_navbar_kesehatan&quot;:true,&quot;web_show_top_navbar_obat&quot;:true,&quot;web_show_top_navbar_penyakit&quot;:true,&quot;web_show_top_navbar_tanyadokter&quot;:true}" show-pdpa-consent="true" pdpa-content="{&quot;title&quot;:&quot;Perlindungan Data Anda yang Utama Bagi Kami&quot;,&quot;description&quot;:&quot;Saya telah memercayakan informasi untuk disimpan \u0026 digunakan. Keamanan data terlindungi sesuai \u003ca href=&#39;/syarat-dan-ketentuan&#39; target=&#39;_blank&#39;\u003e\u003cb\u003eSyarat \u0026 Ketentuan\u003c/b\u003e\u003c/a\u003e serta \u003ca href=&#39;/privasi&#39; target=&#39;_blank&#39;\u003e\u003cb\u003ePrivasi Alodokter\u003c/b\u003e\u003c/a\u003e&quot;,&quot;error_text&quot;:&quot;Klik centang untuk menyetujui Syarat Ketentuan dan Aturan Privasi ALODOKTER&quot;}"></top-navbar-view> <div class="content"> <sub-navbar-left></sub-navbar-left> <div class="content-inner"> <div class="container"> <script type='text/javascript'>
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/38162042/d_article_sidebar_300x600', [300, 600], 'div-gpt-ad-1428907644705-1').addService(googletag.pubads());
+        googletag.defineSlot('/38162042/dekstop_article_sidebar_middle_300x350', [300, 250], 'div-gpt-ad-1441719271128-0').addService(googletag.pubads());
+        googletag.defineSlot('/38162042/d_article_inside_below_600x250', [[600, 250],[336,280],[300,250]], 'div-gpt-ad-1450067495602-0').addService(googletag.pubads());
+        googletag.defineSlot('/38162042/d_article_content_middle_html_video',  [[400, 300],[336,280],[300,250]], 'div-gpt-ad-1483928814775-0').addService(googletag.pubads());
+        googletag.pubads().enableAsyncRendering();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+</script> <div class="main-container"> <link-button href="/komunitas/diskusi/penyakit" type="tanya-dokter-icon" image-background="icon_doctor" value=""></link-button> <div class="title-tag-container"> <div class="tag-label-container"> <a href="/hidup-sehat"> <div class="tag-label label-hidup-sehat">Hidup Sehat</div> </a> </div> <h1 id="post_title">Cara Mengolah Daging Sapi dengan Baik dan Benar</h1> </div> <share-button></share-button> <div class="post-detail-container"> <div id="postContent" data-id="576afff1abcdce1d71022a0f" class="post-content"> <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"> <html><body> <p><strong>Daging sapi merupakan sumber nutrisi penting bagi tubuh. Di sisi lain, daging sapi juga bisa menjadi sumber lemak dan kolesterol jahat yang berdampak buruk bagi kesehatan. Namun, bila daging sapi diolah dengan benar, Anda tidak perlu takut lagi dengan dampak buruknya.</strong></p> <p>Daging sapi merupakan <a href="https://www.alodokter.com/petik-manfaat-protein-dari-sumber-sumber-ini" target="_blank">sumber protein</a>, vitamin B, dan berbagai jenis mineral, seperti fosfor, selenium, dan zat besi yang penting bagi tubuh. Namun, daging sapi juga diketahui mengandung berbagai jenis lemak, terutama lemak jenuh dan lemak tak jenuh tunggal.</p> <p><img class="alignnone wp-image-106981 size-full" src="https://res.cloudinary.com/dk0z4ums3/image/upload/v1605524893/attached_image/mengolah-daging-sapi-dengan-benar-0-alodokter.jpg" alt="Cara Mengolah Daging Sapi dengan Baik dan Benar - Alodokter" width="650" height="432"></p> <p>Tingginya kandungan lemak jenuh di dalam daging sapi tersebut dapat meningkatkan kadar kolesterol jahat (<a href="https://www.alodokter.com/jangan-biarkan-kadar-kolesterol-ldl-melebihi-batas-normal" target="_blank">LDL</a>) dalam tubuh dan risiko terjadinya <a href="https://www.alodokter.com/aterosklerosis" target="_blank">aterosklerosis</a>, penyakit jantung, serta <a href="https://www.alodokter.com/stroke" target="_blank">stroke</a>.</p> <p>Terlalu sering makan daging merah, termasuk daging sapi, juga diduga dapat memicu peradangan yang berpotensi meningkatkan risiko penyakit kanker, seperti <a href="https://www.alodokter.com/kanker-kolorektal" target="_blank">kanker kolorektal</a>, lambung, payudara, dan endometrium.</p> <p>Namun, dengan <a href="https://www.alodokter.com/yuk-cermat-saat-memilih-dan-mengolah-daging" target="_blank">pemilihan, pengolahan, </a>dan konsumsi yang tepat, Anda pun bisa lebih tenang saat menikmati daging sapi dan tidak perlu khawatir terhadap risiko yang dapat terjadi.</p> <h3> <span style="font-weight: normal !msorm;"><strong>Cara </strong></span><strong>Tepat Menggunakan <span style="font-weight: normal !msorm;">Daging Sapi</span></strong> </h3> <p>Tak hanya jumlah konsumsi daging sapi yang harus dibatasi, cara menyimpan dan mengolahnya pun harus diperhatikan. Berikut ini adalah beberapa cara yang bisa Anda lakukan:</p> <h4><span style="font-weight: normal !msorm;"><strong>1. Memilih daging sapi</strong></span></h4> <p>Pilih bagian daging sapi yang lemaknya lebih sedikit, seperti paha belakang, paha depan, has luar (<span style="font-style: normal !msorm;"><em>sirloin</em></span>), atau pinggang. Selain itu, pilih daging sapi yang berwarna merah segar dan bersih.</p> <p>Hindari membeli daging sapi yang sudah berwarna kecokelatan, berlendir, atau tampak kotor. Anda juga disarankan untuk mengonsumsi daging sapi asli, bukan daging olahan seperti daging asap atau sosis.</p> <h4><strong>2. Menyimpan daging sapi</strong></h4> <p>Simpan daging sapi di kulkas bersuhu 1 derajat Celcius atau di lemari pembeku bersuhu -18 derajat Celcius segera setelah membelinya. Hal ini bertujuan untuk menjaga daging tetap segar, mempertahankan nutrisi daging sapi tetap baik, dan memperpanjang umur penyimpanan makanan.</p> <p>Jika disimpan di kulkas, daging sapi mentah hanya dapat bertahan selama 1–2 hari, sedangkan daging sapi masak selama 3–4 hari. Namun, bila disimpan di dalam lemari pembeku, daging sapi mentah mampu bertahan hingga 3–4 bulan, sedangkan daging sapi matang 2–6 bulan.</p> <p>Jangan lupa untuk menyimpan daging sapi dalam wadah bersih dan tertutup rapat. Jika ingin <a href="https://www.alodokter.com/hati-hati-makanan-beku-tidak-bisa-diproses-sembarangan" target="_blank">mencairkan daging sapi yang beku</a>, letakkan di dalam kulkas untuk mencegah pertumbuhan bakteri.</p> <h4><strong>3. Mengolah daging sapi</strong></h4> <p>Selalu <a href="https://www.alodokter.com/langkah-mudah-mencuci-tangan-dengan-benar" target="_blank">cuci tangan</a> sebelum dan setelah memegang daging sapi, setidaknya selama 20 detik dengan air bersih dan sabun. Gunakan pisau dan talenan yang berbeda ketika mengolah daging sapi agar bakteri tidak menyebar ke bahan makanan lain.</p> <p>Anda disarankan untuk membuang lemak daging terlebih dahulu sebelum dimasak, terutama jika ingin membuat sup atau semur. Selain itu, daging sebaiknya tidak digoreng sebelum dimasak, melainkan diolah dengan cara dipanggang atau direbus.</p> <p>Jika memang ingin digoreng, Anda bisa menggunakan <a href="https://www.alodokter.com/bijak-memilih-minyak-untuk-memasak-demi-kesehatan" target="_blank">minyak yang sehat</a> bagi jantung, seperti minyak bunga matahari, <a href="https://www.alodokter.com/5-manfaat-minyak-kanola-yang-wajib-ibu-ketahui" target="_blank">minyak kanola</a>, minyak kedelai, atau <a href="https://www.alodokter.com/manfaat-minyak-zaitun-untuk-kesehatan" target="_blank">minyak zaitun</a>.</p> <p>Saat memasak daging sapi dalam penggorengan, oven, atau air, pastikan suhu setidaknya sekitar 71° Celcius untuk membunuh bakteri.</p> <h4><strong>4. Mengonsumsi daging sapi</strong></h4> <p><span style="font-weight: normal !msorm;"><strong> </strong></span>Sebaiknya Anda seimbangkan konsumsi daging sapi dengan sayuran berserat. Kandungan serat yang tinggi dalam sayur diketahui dapat mengurangi penyerapan kolesterol setelah mengonsumsi daging sapi.</p> <p>Batasi konsumsi daging sapi yang tinggi zat besi bila Anda sedang mengonsumsi suplemen <a href="https://www.alodokter.com/5-alasan-tubuh-anda-membutuhkan-zat-besi" target="_blank">zat besi</a> yang diresepkan Hal ini guna mencegah kelebihan zat besi dalam darah.</p> <p>Dengan memahami berbagai cara di atas, Anda dapat menyantap menu daging sapi tanpa rasa khawatir. Selain itu,terapkan pola makan nutrisi seimbang dan berolahraga secara rutinagar tubuh tetap sehat.</p> <p>Jangan ragu untuk berkonsultasi dengan <a href="https://www.alodokter.com/cari-dokter/ahli-gizi" target="_blank">dokter</a> bila Anda ingin mengetahui jumlah asupan daging sapi yang sesuai dengan kondisi Anda.</p> </body></html> </div> </div> <div id='div-gpt-ad-1450067495602-0' style='height:250px; width:600px; margin-bottom:36px; text-align: center;' class='adunit'> <script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.pubads().setTargeting('Article', ['diet']); googletag.display('div-gpt-ad-1450067495602-0'); });
+        </script> </div> <div class="date-article"> Terakhir diperbarui: 18 Agustus 2021 </div> <sources-post doctor-name="dr. Sienny Agustin" sources="&quot;\u003cp\u003eFiolet, et al. (2018). British Medical Journal. Consumption of ultra-processed foods and cancer risk: results from NutriNet-Santé prospective cohort. British Medical Journal, 360, pp. 322.\n\u003cbr /\u003eChai, et al. (2017). Dietary Red and Processed Meat Intake and Markers of Adiposity and Inflammation: The Multiethnic Cohort Study. Journal of the American College of Nutrition, 36(5), pp. 378–385.\n\u003cbr /\u003eZhao, et al. (2017). Red and Processed Meat Consumption and Colorectal Cancer Risk: A Systematic Review and Meta-Analysis. Oncotarget, 8(47), pp. 83306–83314.\n\u003cbr /\u003eNational Health Services UK (2019). Live Well. How to Store Food and Leftovers.\n\u003cbr /\u003eStroke Association UK. High Cholesterol.\n\u003cbr /\u003eHealthline Editorial Team. Healthline (2021). Meat Safety: Storing and Handling Meat, Poultry, and Fish.\n\u003cbr /\u003eKrans, B. Healthline (2020). Cholesterol Control: Chicken vs. Beef.\n\u003cbr /\u003eArnarson, A. Healthline (2019). Beef 101: Nutrition Facts and Health Effects.\n\u003cbr /\u003eGunnars, K. Healthline (2018). How to Make Your Meat as Healthy as Possible.\n\u003cbr /\u003eMagee, E. WebMD. Where&#39;s the Beef? Where&#39;s the Health Benefit?\n\u003c/p\u003e&quot;"> </sources-post> <share-button></share-button> <related-topic id="relatedTopic" related-items="[{&quot;_id&quot;:&quot;632a814417b25806f27e1fb8&quot;,&quot;author_image&quot;:&quot;&quot;,&quot;avatar_bg_color&quot;:&quot;#90E0EF&quot;,&quot;doctor_answer&quot;:true,&quot;doctor_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_56,h_56,c_fill,f_auto/v1631085897/riska-larasati.png&quot;,&quot;doctor_name&quot;:&quot;dr. Riska Larasati&quot;,&quot;excerpt&quot;:&quot;Dok apakah kacang2an menyebabkan asam urat dok? Kemarin saya cek asam urat dan hasilnya lumayan tinggi dan oleh dokter disarankan untuk tidak...&quot;,&quot;health_analyst&quot;:false,&quot;permalink&quot;:&quot;apakah-konsumsi-kacang-kacangan-dapat-menyebabkan-asam-urat-naik-&quot;,&quot;position&quot;:1,&quot;post_id&quot;:&quot;None&quot;,&quot;read_reply&quot;:false,&quot;reply&quot;:&quot;1&quot;,&quot;time_in_words&quot;:&quot;2 bulan yang lalu&quot;,&quot;timestamp&quot;:&quot;Wed, 21 Sep 2022 07:19:07 GMT&quot;,&quot;title&quot;:&quot;Apakah konsumsi kacang-kacangan dapat menyebabkan asam urat naik?&quot;,&quot;user_type&quot;:&quot;Health Analyst&quot;,&quot;username&quot;:&quot;Eg**t&quot;},{&quot;_id&quot;:&quot;6333aaf8e98c2d0657baf507&quot;,&quot;author_image&quot;:&quot;&quot;,&quot;avatar_bg_color&quot;:&quot;#E1C2A9&quot;,&quot;doctor_answer&quot;:true,&quot;doctor_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_56,h_56,c_fill,f_auto/v1631152443/dr-nadia-nurotul-fuadah.jpg&quot;,&quot;doctor_name&quot;:&quot;dr. Nadia Nurotul Fuadah&quot;,&quot;excerpt&quot;:&quot;Dok sya penderita asam urat terakhir cek itu 7,8.. kebetulan ibu saya mau masak kankung hari ini apa boleh saya makan kankung...&quot;,&quot;health_analyst&quot;:false,&quot;permalink&quot;:&quot;penyakit-apa-saja-yang-penderitanya-tidak-boleh-makan-kankung-&quot;,&quot;position&quot;:2,&quot;post_id&quot;:&quot;None&quot;,&quot;read_reply&quot;:false,&quot;reply&quot;:&quot;1&quot;,&quot;time_in_words&quot;:&quot;2 bulan yang lalu&quot;,&quot;timestamp&quot;:&quot;Wed, 28 Sep 2022 10:51:36 GMT&quot;,&quot;title&quot;:&quot;Penyakit apa saja yang penderitanya tidak boleh makan kangkung?&quot;,&quot;user_type&quot;:&quot;Health Analyst&quot;,&quot;username&quot;:&quot;Se****l&quot;},{&quot;_id&quot;:&quot;6363592510a582073ce742e6&quot;,&quot;author_image&quot;:&quot;&quot;,&quot;avatar_bg_color&quot;:&quot;#F0B5C0&quot;,&quot;doctor_answer&quot;:true,&quot;doctor_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_56,h_56,c_fill,f_auto/v1598066357/marf-pimpim.png&quot;,&quot;doctor_name&quot;:&quot;dr. Muhammad Ainul Rohman F&quot;,&quot;excerpt&quot;:&quot;Dok usia saya sekarang 23 tahun, berat badan saya hanya sekitar 40kg dok. Kalo saya rutin makan coklat apakah nantinya berat badan...&quot;,&quot;health_analyst&quot;:false,&quot;permalink&quot;:&quot;apakah-dengan-banyak-makan-coklat-berat-badan-bisa-bertambah-&quot;,&quot;position&quot;:3,&quot;post_id&quot;:&quot;None&quot;,&quot;read_reply&quot;:false,&quot;reply&quot;:&quot;1&quot;,&quot;time_in_words&quot;:&quot;sebulan yang lalu&quot;,&quot;timestamp&quot;:&quot;Thu, 03 Nov 2022 10:01:47 GMT&quot;,&quot;title&quot;:&quot;Apakah dengan banyak makan coklat berat badan bisa bertambah?&quot;,&quot;user_type&quot;:&quot;Health Analyst&quot;,&quot;username&quot;:&quot;Be****m&quot;}]" title-related="Diskusi Terkait" topic-tags="nutrisi" text-more-button="Selanjutnya" with-text="true" post-title="Cara Mengolah Daging Sapi dengan Baik dan Benar" post-id="576afff1abcdce1d71022a0f" avatar-default-color = ''> </related-topic> </div> <div class="side-container"> <div id='div-gpt-ad-1428907644705-1' style='height:600px; width:300px;' class='adunit'> <script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.pubads().setTargeting('Article', ['diet']); googletag.display('div-gpt-ad-1428907644705-1'); });
+        </script> </div> <div class="h2-related-article">Artikel Terkait</div> <related-post id="relatedPost" related-items="[{&quot;category&quot;:&quot;Kesehatan&quot;,&quot;excerpt&quot;:&quot;Sayur dan buah penambah darah baik dikonsumsi bagi Anda yang sedang mengalami anemia atau kurang&quot;,&quot;id&quot;:86417,&quot;permalink&quot;:&quot;coba-simak-sayur-dan-buah-penambah-darah-di-sini&quot;,&quot;position&quot;:1,&quot;post_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1627460111/attached_image/coba-simak-sayur-dan-buah-penambah-darah-di-sini.jpg&quot;,&quot;title&quot;:&quot;Kenali Ragam Sayur dan Buah Penambah Darah di Sini&quot;,&quot;category_label&quot;:&quot;kesehatan&quot;},{&quot;category&quot;:&quot;Hidup Sehat&quot;,&quot;excerpt&quot;:&quot;Di awal kehidupan, bayi hanya mendapatkan asupan nutrisi dari air susu ibu (ASI) atau susu&quot;,&quot;id&quot;:553352,&quot;permalink&quot;:&quot;panduan-menyajikan-buah-untuk-bayi-6-bulan&quot;,&quot;position&quot;:2,&quot;post_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1539239497/attached_image/panduan-menyajikan-buah-untuk-bayi-6-bulan.jpg&quot;,&quot;title&quot;:&quot;Panduan Menyajikan Buah untuk Bayi 6 Bulan&quot;,&quot;category_label&quot;:&quot;hidup-sehat&quot;},{&quot;category&quot;:&quot;Hidup Sehat&quot;,&quot;excerpt&quot;:&quot;Manfaat wasabi tidak hanya sebagai pelengkap ketika mengonsumsi sushi dan sashimi. Wasabi juga menyimpan segudang&quot;,&quot;id&quot;:1801419,&quot;permalink&quot;:&quot;inilah-4-manfaat-wasabi-untuk-kesehatan-tubuh&quot;,&quot;position&quot;:3,&quot;post_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1603167538/attached_image/inilah-4-manfaat-wasabi-untuk-kesehatan-tubuh.jpg&quot;,&quot;title&quot;:&quot;5 Manfaat Wasabi untuk Kesehatan Tubuh yang Jarang Diketahui&quot;,&quot;category_label&quot;:&quot;hidup-sehat&quot;},{&quot;category&quot;:&quot;Keluarga&quot;,&quot;excerpt&quot;:&quot;Meski berasal dari tumbuh-tumbuhan, bukan berarti protein nabati lebih buruk dari protein hewani lho, Bun.&quot;,&quot;id&quot;:1742409,&quot;permalink&quot;:&quot;5-makanan-ini-sumber-protein-nabati-yang-baik-untuk-anak&quot;,&quot;position&quot;:4,&quot;post_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1656386636/attached_image/5-makanan-ini-sumber-protein-nabati-yang-baik-untuk-anak.jpg&quot;,&quot;title&quot;:&quot;6 Makanan Sumber Protein Nabati yang Baik untuk Anak&quot;,&quot;category_label&quot;:&quot;keluarga&quot;},{&quot;category&quot;:&quot;Hidup Sehat&quot;,&quot;excerpt&quot;:&quot;Mungkin Anda sudah tidak asing mendengar nama minuman yang satu ini, yakni air soda. Tak&quot;,&quot;id&quot;:1820514,&quot;permalink&quot;:&quot;7-manfaat-air-soda-bagi-kesehatan&quot;,&quot;position&quot;:5,&quot;post_image&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/w_300,h_166,c_fill/v1632724130/attached_image/7-manfaat-air-soda-bagi-kesehatan.jpg&quot;,&quot;title&quot;:&quot;7 Manfaat Air Soda bagi Kesehatan&quot;,&quot;category_label&quot;:&quot;hidup-sehat&quot;}]" url-more-button="/artikel-terkait/nutrisi" see-more="false" post-title="Cara Mengolah Daging Sapi dengan Baik dan Benar" post-id="576afff1abcdce1d71022a0f"> </related-post> <div class="related-doctor"> <div class="h2-related">Dokter Terkait</div> <card-related-doctor href="/cari-dokter/ahli-gizi" image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_150,h_150/v1525754077/image_doctor/dr%20samuel%20oetoro%20sp.gk.jpg.jpg" doctor-id="593f6c044eb9d80875128c8d" doctor-name="Dr. dr. Samuel Oetoro, MS, Sp.GK (K)" doctor-speciality="Dokter Gizi" post-title="Cara Mengolah Daging Sapi dengan Baik dan Benar" post-id="576afff1abcdce1d71022a0f" price="500000"> </card-related-doctor> <card-related-doctor href="/cari-dokter/ahli-gizi" image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_150,h_150/v1611017852/image_doctor/dr.%20Eleonora%20Mitaning%20Christy%2C%20M.Gizi%2C%20Sp.GK.jpg.jpg" doctor-id="600547fae278300d87620639" doctor-name="dr. Eleonora Mitaning Christy, M.Gizi, Sp.GK" doctor-speciality="Dokter Gizi" post-title="Cara Mengolah Daging Sapi dengan Baik dan Benar" post-id="576afff1abcdce1d71022a0f" price="220000"> </card-related-doctor> <card-related-doctor href="/cari-dokter/ahli-gizi" image-url="https://res.cloudinary.com/dk0z4ums3/image/upload/w_150,h_150/v1620282433/image_doctor/dr.%20I%20Yuwanda%20Chrissander%2C%20Sp.GK.jpg.jpg" doctor-id="60938c436cceb56598761f11" doctor-name="dr. I Yuwanda Chrissander, Sp.GK" doctor-speciality="Dokter Gizi" post-title="Cara Mengolah Daging Sapi dengan Baik dan Benar" post-id="576afff1abcdce1d71022a0f" price="225000"> </card-related-doctor> </div> <div id='div-gpt-ad-1441719271128-0' style='height:250px; width:300px;' class='adunit'> <script type='text/javascript'>
+                googletag.cmd.push(function() { googletag.pubads().setTargeting('Article', ['diet']); googletag.display('div-gpt-ad-1441719271128-0'); });
+        </script> </div> </div> <script type='text/javascript'>
+  window.addEventListener( 'load', function( event ) {
+    var pc = document.getElementById('postContent')
+    var _p = pc.getElementsByTagName('p')
+    var slot = Math.ceil(_p.length / 2);
+
+    // Ads
+    for(var i = 1; i <= _p.length; i++){
+      if(i == slot){
+        console.log("Load container ads on after <p> "+slot);
+        _p[i].insertAdjacentHTML('afterend','<div id="div-gpt-ad-1483928814775-0" style="height:300px; width:400px;margin:20px auto; text-align: center;"></div>')
+      }
+    }
+
+      // Display DFP Ads
+          googletag.cmd.push(function() { googletag.pubads().setTargeting('Article', ['diet']); googletag.display('div-gpt-ad-1483928814775-0'); });
+    });
+</script> </div> </div> </div> <footer-view is-show-kemenkes ="{&quot;kemenkes_partnership&quot;:true,&quot;kemenkes_top_bar_desktop&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto/v1634020083/aloweb_assets/logo-header.png&quot;,&quot;kemenkes_bottom_banner_desktop&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto/v1586404769/dev/kemenkes/1586404767.png&quot;,&quot;kemenkes_top_bar_mobile&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto/v1634020083/aloweb_assets/logo-header.png&quot;,&quot;kemenkes_bottom_banner_mobile&quot;:&quot;https://res.cloudinary.com/dk0z4ums3/image/upload/f_auto/v1586404887/dev/kemenkes/1586404881.png&quot;}" show-hide-submenu-alo="{&quot;web_show_footer_aloproteksi&quot;:true,&quot;web_show_footer_aloproteksi_corporate&quot;:true,&quot;web_show_footer_hubungikami&quot;:true,&quot;web_show_footer_karier&quot;:true,&quot;web_show_footer_tentangkami&quot;:true,&quot;web_show_footer_timeditorial&quot;:true}"></footer-view> <style>
+	#mainContainer {
+  		position: relative;
+  		width: 400px;
+  		height: 300px;
+      	padding-bottom: 20px;
+		margin: 0 auto;
+	}
+
+	#contentVideo, #adContainer {
+  		position: absolute;
+  		top: 0px;
+  		left: 0px;
+  		width: 400px;
+  		height: 300px;
+	}
+
+	#contentElement {
+  		width: 400px;
+  		height: 300px;
+  		overflow: hidden;
+	}
+</style> <script type="text/javascript" src="//imasdk.googleapis.com/js/sdkloader/ima3.js" async="async"></script> <script type="text/javascript">
+	// Copyright 2013 Google Inc. All Rights Reserved.
+	// You may study, modify, and use this example for any purpose.
+	// Note that this example is provided "as is", WITHOUT WARRANTY
+	// of any kind either expressed or implied.
+
+	var adsManager;
+	var adsLoader;
+	var adDisplayContainer;
+	var intervalTimer;
+	var videoContent;
+	var typeKey;
+	var remarketingTags = '';
+
+  window.addEventListener( 'load', function( event ) {
+			rmtg = document.querySelector('meta[name="remarketing_tags"]')
+			if(rmtg != null){
+				remarketingTags = rmtg.content.split(' ')
+				// remarketingTags = rmtg.attr('content').split(', ');
+	      // Wire UI element references and UI event listeners
+	      init();
+			}
+  });
+
+	function init() {
+		typeKey = window.GAPageType;
+		// prepare for add slot video on middle article
+		prepareSlotVideo(typeKey);
+
+		// check slot exist
+		videoContent = document.getElementById('contentElement');
+		// already exists slot
+		if (videoContent != null && videoContent.length != 0) {
+			// Create the ad display container.
+			createAdDisplayContainer();
+			// Initialize the container. Must be done via a user action on mobile devices.
+			adDisplayContainer.initialize();
+			videoContent.load();
+			// Create ads loader.
+			adsLoader = new google.ima.AdsLoader(adDisplayContainer);
+			// Listen and respond to ads loaded and error events.
+			adsLoader.addEventListener(
+			  google.ima.AdsManagerLoadedEvent.Type.ADS_MANAGER_LOADED,
+			  onAdsManagerLoaded,
+			  false);
+			adsLoader.addEventListener(
+			  google.ima.AdErrorEvent.Type.AD_ERROR,
+			  onAdError,
+			  false);
+			  requestAds(typeKey);
+		}
+	  }
+
+	function prepareSlotVideo(typeKey) {
+		// Article
+		if (typeKey == 'Article') {
+			// var count = $('.entry-content p').length;
+			var poster = '';
+
+			var pc = document.getElementById('postContent')
+	    var _p = pc.getElementsByTagName('p')
+			var count = _p.length;
+			var slot = Math.ceil(count/2);
+
+			for(var i = 1; i <= _p.length; i++){
+	      if(i == slot){
+					console.log("Load container ads on slot"+slot);
+					if (remarketingTags.includes("betadine1")) {
+						poster = '/assets/betadine-menstruasi-400x300-546cd3128ed2958755c82cd06f0a2aa13df58336edf4a371c322ace88c966919.jpg';
+					} else if (remarketingTags.includes("betadine-hygiene")) {
+						poster = '/assets/betadine-keputihan-400x300-e728bf75b9043033c927e30cd9d7595a3846fe0286c381e5bb30ae390f1318b9.jpg';
+					} else if (remarketingTags.includes("betadine-gargle")) {
+						poster = '/assets/betadine-gargle-400x300-3ddb7a9c4c2baf6ac9c5f6934bd760eca6f5a9ebd9d81c565bd7ce6ee71e8098.jpg';
+					}
+					_p[i].insertAdjacentHTML('afterend','<div id="mainContainer" class="hide"><div id="contentVideo"><video id="contentElement" poster="'+poster+'"></video></div><div id="adContainer"></div>');
+	      }
+	    }
+			/*$('.entry-content p').each(function(i, e) {
+				if(i == slot ){
+					console.log("Load container ads on slot"+slot);
+					if (remarketingTags.includes("betadine1")) {
+						poster = '/assets/betadine-menstruasi-400x300-546cd3128ed2958755c82cd06f0a2aa13df58336edf4a371c322ace88c966919.jpg';
+					} else if (remarketingTags.includes("betadine-hygiene")) {
+						poster = '/assets/betadine-keputihan-400x300-e728bf75b9043033c927e30cd9d7595a3846fe0286c381e5bb30ae390f1318b9.jpg';
+					} else if (remarketingTags.includes("betadine-gargle")) {
+						poster = '/assets/betadine-gargle-400x300-3ddb7a9c4c2baf6ac9c5f6934bd760eca6f5a9ebd9d81c565bd7ce6ee71e8098.jpg';
+					}
+					$('<div id="mainContainer" class="hide"><div id="contentVideo"><video id="contentElement" poster="'+poster+'"></video></div><div id="adContainer"></div>').insertAfter($(e));
+				}
+			});*/
+		}
+	}
+
+	function createAdDisplayContainer() {
+	  // We assume the adContainer is the DOM id of the element that will house
+	  // the ads.
+	  adDisplayContainer =
+	      new google.ima.AdDisplayContainer(
+	          document.getElementById('adContainer'), videoContent);
+	}
+
+	function requestAds(typeKey) {
+		// Request video ads.
+		var adsRequest = new google.ima.AdsRequest();
+		var target = remarketingTags.join();
+		console.log("TARGET : " + target);
+		if (typeKey == 'Article') {
+			adsRequest.adTagUrl = "https://pubads.g.doubleclick.net/gampad/ads?sz=400x300&iu=/38162042/d_article_content_middle_400x300v&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]&cust_params="+typeKey+"%3D"+encodeURIComponent(target);
+		} else if (typeKey == 'Komunitas') {
+			// komunitas
+			adsRequest.adTagUrl = "https://pubads.g.doubleclick.net/gampad/ads?sz=400x300&iu=/38162042/desktop_komunitas_index_video_sidebar_above&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]";
+		} else {
+			// homepage
+			adsRequest.adTagUrl = "https://pubads.g.doubleclick.net/gampad/ads?sz=400x300&iu=/38162042/desktop_homepage_video_sidebar_above&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]";
+ 		}
+		console.log(adsRequest);
+		adsLoader.requestAds(adsRequest);
+	}
+
+	function onAdsManagerLoaded(adsManagerLoadedEvent) {
+	  // Get the ads manager.
+	  var adsRenderingSettings = new google.ima.AdsRenderingSettings();
+	  adsRenderingSettings.restoreCustomPlaybackStateOnAdBreakComplete = true;
+	  // videoContent should be set to the content video element.
+	  adsManager = adsManagerLoadedEvent.getAdsManager(
+	      videoContent, adsRenderingSettings);
+
+	  // Add listeners to the required events.
+	  adsManager.addEventListener(
+	      google.ima.AdErrorEvent.Type.AD_ERROR,
+	      onAdError);
+	  adsManager.addEventListener(
+	      google.ima.AdEvent.Type.CONTENT_PAUSE_REQUESTED,
+	      onContentPauseRequested);
+	  adsManager.addEventListener(
+	      google.ima.AdEvent.Type.CONTENT_RESUME_REQUESTED,
+	      onContentResumeRequested);
+	  adsManager.addEventListener(
+	      google.ima.AdEvent.Type.ALL_ADS_COMPLETED,
+	      onAdEvent);
+
+	  // Listen to any additional events, if necessary.
+	  adsManager.addEventListener(
+	      google.ima.AdEvent.Type.LOADED,
+	      onAdEvent);
+	  adsManager.addEventListener(
+	      google.ima.AdEvent.Type.STARTED,
+	      onAdEvent);
+	  adsManager.addEventListener(
+	      google.ima.AdEvent.Type.COMPLETE,
+	      onAdEvent);
+
+	  try {
+			// Initialize the ads manager. Ad rules playlist will start at this time.
+			//adsManager.init(640, 360, google.ima.ViewMode.NORMAL);
+			// Article
+			if (typeKey == 'General' || typeKey == 'Komunitas') {
+			    adsManager.init(300, 250, google.ima.ViewMode.NORMAL);
+			} else {
+				adsManager.init(400, 300, google.ima.ViewMode.NORMAL);
+			}
+			// Call play to start showing the ad. Single video and overlay ads will
+			// start at this time; the call will be ignored for ad rules.
+			var mainContainer = document.getElementById("mainContainer").classList;
+			// Show Container
+			if (mainContainer.contains("hide")) {
+				mainContainer.remove("hide");
+			}
+			adsManager.start();
+		} catch (adError) {
+			// An error may be thrown if there was a problem with the VAST response.
+			videoContent.play();
+		}
+	}
+
+	function onAdEvent(adEvent) {
+	  // Retrieve the ad from the event. Some events (e.g. ALL_ADS_COMPLETED)
+	  // don't have ad object associated.
+	  var ad = adEvent.getAd();
+	  switch (adEvent.type) {
+	    case google.ima.AdEvent.Type.LOADED:
+	      // This is the first event sent for an ad - it is possible to
+	      // determine whether the ad is a video ad or an overlay.
+	      if (!ad.isLinear()) {
+	        // Position AdDisplayContainer correctly for overlay.
+	        // Use ad.width and ad.height.
+	        videoContent.play();
+	      }
+	      break;
+	    case google.ima.AdEvent.Type.STARTED:
+	      // This event indicates the ad has started - the video player
+	      // can adjust the UI, for example display a pause button and
+	      // remaining time.
+	      if (ad.isLinear()) {
+	        // For a linear ad, a timer can be started to poll for
+	        // the remaining time.
+	        intervalTimer = setInterval(
+	            function() {
+	              var remainingTime = adsManager.getRemainingTime();
+	            },
+	            300); // every 300ms
+	      }
+	      break;
+	    case google.ima.AdEvent.Type.COMPLETE:
+	      // This event indicates the ad has finished - the video player
+	      // can perform appropriate UI actions, such as removing the timer for
+	      // remaining time detection.
+	      if (ad.isLinear()) {
+	        clearInterval(intervalTimer);
+	      }
+				document.getElementById("mainContainer").classList.add('hide')
+        // $("#mainContainer").addClass('hide');
+		  // loop ads video
+	      // requestAds();
+	      break;
+	  }
+	}
+
+	function onAdError(adErrorEvent) {
+	  // Handle the error logging.
+	  console.log(adErrorEvent.getError());
+	  if (adErrorEvent.type == 'adError') {
+			document.getElementById("mainContainer").classList.add('hide')
+		  // $("#mainContainer").addClass('hide');
+	  }
+	  // adsManager.destroy();
+	}
+
+	function onContentPauseRequested() {
+	  videoContent.pause();
+	  // This function is where you should setup UI for showing ads (e.g.
+	  // display ad timer countdown, disable seeking etc.)
+	  // setupUIForAds();
+	}
+
+	function onContentResumeRequested() {
+	  videoContent.play();
+	  // This function is where you should ensure that your UI is ready
+	  // to play content. It is the responsibility of the Publisher to
+	  // implement this function when necessary.
+	  // setupUIForContent();
+
+	}
+
+	// Wire UI element references and UI event listeners
+	// init();
+
+</script> <script src="/assets/custom-elements-es5-adapter-8c38dd9f2e16de3af85d83b3567ad32138ea58f33ec1412f607f10acf62ae652.js" defer="defer"></script> <script src="/packs/posts-page-817eda1b1389db4c3f8f.js" defer="defer"></script> <iron-ajax id="postCounter" auto url="/api/posts/counter" headers='{"Authorization": "Token token=58caa8685c084db79f733f40ebae25f1"}' method="post" params='{ "post_id": "576afff1abcdce1d71022a0f"}' handle-as="json"> </iron-ajax> <iron-ajax id="pubsubCounter" auto url="/api/pubsub/counter" method="post" params='{ "post_id": "576afff1abcdce1d71022a0f"}' handle-as="json"> </iron-ajax> <iron-ajax id="pubsubRecommenderMVP" auto url="/api/pubsub/recommender_mvp" method="post" params='{"recommendation_id": "14d57146-729e-4ced-990c-ba895d3dc090", "post_id": "106979", "post_slug": "mengolah-daging-sapi-dengan-benar", "algorithm": "articles_pure_random", "is_randomized": "true", "related_posts": "86417,coba-simak-sayur-dan-buah-penambah-darah-di-sini,1,553352,panduan-menyajikan-buah-untuk-bayi-6-bulan,2,1801419,inilah-4-manfaat-wasabi-untuk-kesehatan-tubuh,3,1742409,5-makanan-ini-sumber-protein-nabati-yang-baik-untuk-anak,4,1820514,7-manfaat-air-soda-bagi-kesehatan,5,1816424,kenali-ragam-manfaat-sarapan-lezat-dengan-susu-kental-manis,6" }' handle-as="json"> </iron-ajax> <iron-ajax id="pubsubRecommenderDiscussion" auto url="/api/pubsub/recommender_discussion" method="post" params='{"recommendation_id": "86109e62-a34f-45b6-96cf-aa1fa6c6e0c0", "post_id": "106979", "post_slug": "mengolah-daging-sapi-dengan-benar", "algorithm": "discussion_top_ctr", "is_randomized": "false", "related_posts": "632a814417b25806f27e1fb8,apakah-konsumsi-kacang-kacangan-dapat-menyebabkan-asam-urat-naik-,1,6333aaf8e98c2d0657baf507,penyakit-apa-saja-yang-penderitanya-tidak-boleh-makan-kankung-,2,6363592510a582073ce742e6,apakah-dengan-banyak-makan-coklat-berat-badan-bisa-bertambah-,3" }' handle-as="json"> </iron-ajax> <script type='text/javascript'>
+        document.onreadystatechange = function () {
+            if (document.readyState == "complete"){
+                console.log("ready!");
+                // create cookies previous_url
+                document.cookie = "previous_url=" + window.location.pathname+";path=/";
+            }
+
+            /**
+             * Track depth scroll
+             */
+            var currentDepthScroll = 0;
+
+            function trackDepthScroll() {
+
+                var bottom  = window.pageYOffset + window.innerHeight;
+                var height  = document.body.clientHeight;
+                var percent = (bottom/height)*100;
+                var done25 = false;
+                var done50 = false;
+                var done75 = false;
+                var done100 = false;
+
+                if (percent >= 25 && currentDepthScroll < 25 && done25 == false) {
+                    done25 = true;
+                    currentDepthScroll = 25;
+                    console.log("GA Type : "+ window.GAPageType);
+                    console.log('Scroll Depth 25%');
+                    ga('send', 'event', 'Scroll Depth', window.GAPageType, '25%');
+                }
+
+                if (percent >= 50 && currentDepthScroll < 50 && done50 == false) {
+                    done50 = true;
+                    currentDepthScroll = 50;
+                    console.log('Scroll Depth 50%');
+                    ga('send', 'event', 'Scroll Depth', window.GAPageType, '50%');
+                }
+
+                if (percent >= 75 && currentDepthScroll < 75 && done75 == false) {
+                    done75 = true;
+                    currentDepthScroll = 75;
+                    console.log('Scroll Depth 75%');
+                    ga('send', 'event', 'Scroll Depth', window.GAPageType, '75%');
+                }
+
+                if (percent >= 100 && currentDepthScroll < 99 && done100 == false) {
+                    done100 = true;
+                    currentDepthScroll = 100;
+                    console.log('Scroll Depth 100%');
+                    ga('send', 'event', 'Scroll Depth', window.GAPageType, '100%');
+                }
+
+            }
+
+            /**
+            * Tracking view of the article wall
+            */
+            var onceGAParam = false;
+
+            function isInViewport(el) {
+                const rect = el.getBoundingClientRect();
+                return (
+                    rect.top >= 0 &&
+                    rect.left >= 0 &&
+                    rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+                    rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+                );
+            }
+
+            window.onscroll = function() {
+                trackDepthScroll();
+                
+                const box = document.querySelector('.wall-container');
+                if(box) {
+                    if(!onceGAParam && isInViewport(box)) {
+                        console.log('The Article wall is visible');
+                        ga('send', 'event', 'Article Wall', 'Article Wall View', window.location.href);
+                        onceGAParam = true
+                    }
+                }
+            }
+
+            /**
+             * Tracking click the button in the article wall
+             */
+            const articleWallButton = document.getElementById('buttonGetAlodokter');
+            if (articleWallButton) {
+                articleWallButton.addEventListener('click', e => {
+                    e.stopImmediatePropagation();
+                    ga('send', 'event', 'Article Wall', 'Article Wall Click', window.location.href);
+                });
+            }
+        };
+    </script> <script type='text/javascript'>
+        (function() {
+            function getScript(url,success){
+                var script=document.createElement('script');
+                script.src=url;
+                var head=document.getElementsByTagName('head')[0],
+                    done=false;
+                script.onload=script.onreadystatechange = function(){
+                    if ( !done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete') ) {
+                        done=true;
+                        success();
+                        script.onload = script.onreadystatechange = null;
+                        head.removeChild(script);
+                    }
+                };
+                head.appendChild(script);
+              }
+            //getScript('/assets/application-ddb59f42ae81f0214499f826aca66067f13d247a278bdc2bb841da60dcabe662.js',function(){});
+        })();
+    </script> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGNJXMW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> </body> </html>
